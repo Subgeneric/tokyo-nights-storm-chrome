@@ -8,6 +8,8 @@
 
 An elegant dark theme inspired by Tokyo's night storms. Features soothing blues and purples for a calming browsing experience.
 
+The theme coordinates Chrome's supported browser surfaces in regular and Incognito windows, including the frame, tabs, toolbar, omnibox, bookmarks, and New Tab page. Chrome does not expose every UI surface to extension themes: pages such as Settings (`chrome://settings`) and Extensions (`chrome://extensions`) keep Chrome's own styling and cannot be recolored by this theme. Menus use Chrome's generated theme colors where supported; individual menu rows and hover states are not independently configurable.
+
 ## Chrome Web Store
 
 [Download from Chrome Web Store](https://chromewebstore.google.com/detail/tokyo-night-storm-theme/pgbjifpikialeahbdendkjioeafbmfkn)
@@ -40,7 +42,7 @@ An elegant dark theme inspired by Tokyo's night storms. Features soothing blues 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/LockeAG/tokyo-nights-storm-chrome.git
+   git clone https://github.com/Subgeneric/tokyo-nights-storm-chrome.git
    ```
 2. **Navigate to the Directory**:
 
